@@ -20,4 +20,5 @@ function theBeatlesPlay(i){
   do{
     arr.push('I love the Beatles!')
   }while(--i>0)
+  return arr
 }
