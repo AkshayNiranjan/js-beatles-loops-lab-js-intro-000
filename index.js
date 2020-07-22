@@ -12,7 +12,7 @@ function johnLennonFacts(facts){
   while(i<facts.length){
     arr2.push(facts[i++]+"!!!")
   }
-  return arr
+  return arr2
 }
 function theBeatlesPlay(i){
   var arr3=[]
