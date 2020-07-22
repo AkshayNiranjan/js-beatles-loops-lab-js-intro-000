@@ -14,6 +14,6 @@ function johnLennonFacts(facts){
   }
   return arr
 }
-function theBeatlesPlay(){
-  
+function theBeatlesPlay(i){
+  i=15-i
 }
