@@ -18,6 +18,6 @@ function theBeatlesPlay(i){
   var arr=[]
   i=15-i
   do{
-
+    arr.push('I love the Beatles!')
   }
 }
