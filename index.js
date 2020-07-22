@@ -14,11 +14,11 @@ function johnLennonFacts(facts){
   }
   return arr2
 }
-function theBeatlesPlay(i){
+function theBeatlesPlay(ind){
   var arr3=new Array()
-  i=15-i
+  ind=15-ind
   do{
     arr3.push('I love the Beatles!')
-  }while(i-- >0)
+  }while(ind-- >0)
   return arr3
 }
