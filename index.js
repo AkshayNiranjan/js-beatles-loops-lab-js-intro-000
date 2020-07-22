@@ -10,7 +10,7 @@ function johnLennonFacts(facts){
   var arr=[]
   let i=facts.length
   while(--i>=0){
-    arr.push(facts[i]+"!!!")
+    arr.unshift(facts[i]+"!!!")
   }
   return arr
 }
