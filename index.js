@@ -15,5 +15,9 @@ function johnLennonFacts(facts){
   return arr
 }
 function theBeatlesPlay(i){
+  var arr=[]
   i=15-i
+  do{
+
+  }
 }
