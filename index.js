@@ -15,10 +15,10 @@ function johnLennonFacts(facts){
   return arr
 }
 function theBeatlesPlay(i){
-  var arr=[]
+  var arr3=[]
   i=15-i
   do{
-    arr.push('I love the Beatles!')
+    arr3.push('I love the Beatles!')
   }while(--i>0)
-  return arr
+  return arr3
 }
